@@ -1,5 +1,6 @@
 <p align="center">
-  <img src="./brain/cb79d8ee-c269-42ed-a186-32e5a730da03/eduvirtual_banner_1774232066215.png" alt="EDUVIRTUAL Banner" width="100%">
+<img width="1891" height="865" alt="Captura de pantalla 2026-03-22 211207" src="https://github.com/user-attachments/assets/4041b79a-dd35-4703-900d-cce44d648121" />
+
 </p>
 
 <h1 align="center">EDUVIRTUAL</h1>
