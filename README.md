@@ -26,7 +26,14 @@
 
 ### ✨ Vista Previa
 <p align="center">
-  <img src="./brain/cb79d8ee-c269-42ed-a186-32e5a730da03/eduvirtual_dashboard_mockup_1774232116950.png" alt="Dashboard Mockup" width="80%">
+  <img width="1918" height="873" alt="Captura de pantalla 2026-03-22 211226" src="https://github.com/user-attachments/assets/3318ba23-8570-4ef5-bed2-04b4a45cab54" 
+  <img width="1914" height="853" alt="Captura de pantalla 2026-03-22 211255" src="https://github.com/user-attachments/assets/2b43f8d9-5d5d-4960-bea6-8db3d8f1d1f3" 
+  <img width="1910" height="860" alt="Captura de pantalla 2026-03-22 211326" src="https://github.com/user-attachments/assets/4affc7a3-8393-4234-ab46-6b19e803508e" />
+
+      />
+
+      />
+
 </p>
 
 ---
