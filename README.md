@@ -26,13 +26,10 @@
 
 ### ✨ Vista Previa
 <p align="center">
-  <img width="1918" height="873" alt="Captura de pantalla 2026-03-22 211226" src="https://github.com/user-attachments/assets/3318ba23-8570-4ef5-bed2-04b4a45cab54" 
-  <img width="1914" height="853" alt="Captura de pantalla 2026-03-22 211255" src="https://github.com/user-attachments/assets/2b43f8d9-5d5d-4960-bea6-8db3d8f1d1f3" 
-  <img width="1910" height="860" alt="Captura de pantalla 2026-03-22 211326" src="https://github.com/user-attachments/assets/4affc7a3-8393-4234-ab46-6b19e803508e" />
+<img width="1918" height="873" alt="Captura de pantalla 2026-03-22 211226" src="https://github.com/user-attachments/assets/3318ba23-8570-4ef5-bed2-04b4a45cab54" />
+<img width="1914" height="853" alt="Captura de pantalla 2026-03-22 211255" src="https://github.com/user-attachments/assets/751c4318-01f7-4f2d-a30a-008a278fe85c" />
+<img width="1910" height="860" alt="Captura de pantalla 2026-03-22 211326" src="https://github.com/user-attachments/assets/621a0221-74e6-4455-900e-f37c2d965dbd" />
 
-      />
-
-      />
 
 </p>
 
